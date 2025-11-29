@@ -1,6 +1,6 @@
 {
-  "name": "qr-code-generator",
-  "homepage": "https://hyaanx.github.io/qr-code-generator-react",
+  "name": "react-qr-maker",
+  "homepage": "https://hyaanx.github.io/react-qr-maker",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
